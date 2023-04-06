@@ -8,3 +8,8 @@ import './styles/registration-new-volunteer.css';
 import './styles/settings-change-password.css';
 import './styles/settings-notifications.css';
 import './styles/settings-profile.css';
+import './styles/ui-kit-albert-taygibov.css';
+import './styles/ui-kit-artem-sobolevsky.css';
+import './styles/ui-kit-maksim-akimov.css';
+import './styles/ui-kit-nikita-vereschagin.css';
+import './styles/ui-kit-tatijana-kovpak.css';
